@@ -1,0 +1,55 @@
+{
+  "name": "job-autopilot",
+  "version": "0.1.0",
+  "description": "A job-application agent: finds the form, fills it only from what you have on file, checks it with 13 gates, and stops before submit unless you say otherwise.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "bin": {
+    "job-autopilot": "./dist/cli/main.js"
+  },
+  "files": [
+    "dist",
+    "examples"
+  ],
+  "engines": {
+    "node": ">=20.6"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "prepare": "npm run build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "autopilot": "tsx src/cli/main.ts",
+    "demo": "tsx src/cli/main.ts demo --rehearse"
+  },
+  "keywords": [
+    "agent",
+    "job-application",
+    "browser-automation",
+    "playwright",
+    "greenhouse",
+    "ashby",
+    "lever"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ats-form-fill": "github:jordan-ae/ats-form-fill",
+    "pdfkit": "^0.20.2",
+    "playwright-core": "^1.64.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/pdfkit": "^0.17.7",
+    "happy-dom": "^21.0.4",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

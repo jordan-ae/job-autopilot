@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "openai",
+  "jobId": "310bba8b-1fb6-4e38-bd0b-9d83b712d240",
+  "company": "Openai",
+  "url": "https://jobs.ashbyhq.com/openai/310bba8b-1fb6-4e38-bd0b-9d83b712d240/application",
+  "finalUrl": "https://jobs.ashbyhq.com/openai/310bba8b-1fb6-4e38-bd0b-9d83b712d240/application",
+  "httpStatus": 200,
+  "title": "Dedicated Support Engineer - London @ OpenAI",
+  "capturedAt": "2026-10-03T02:58:41.894Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 13,
+  "requiredCount": 10
+}

@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "vanta",
+  "jobId": "9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
+  "company": "Vanta",
+  "url": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28/application",
+  "finalUrl": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28/application",
+  "httpStatus": 200,
+  "title": "Staff Software Engineer, Program Structure & Trust @ Vanta",
+  "capturedAt": "2026-10-03T02:59:21.970Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 17,
+  "requiredCount": 12
+}

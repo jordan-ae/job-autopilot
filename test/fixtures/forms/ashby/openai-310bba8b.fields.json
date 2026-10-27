@@ -1,0 +1,167 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Legal Name",
+    "description": "Please enter your legal name exactly as shown on your government-issued ID. This helps keep records accurate for later hiring steps.",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"a4a98901-0131-4a2e-812f-225d7fe4900d\"]",
+    "key": "a4a98901-0131-4a2e-812f-225d7fe4900d",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Preferred Name (if applicable)",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"82a6a8fc-2f09-468f-aa5c-80c0c3e958d5\"]",
+    "key": "82a6a8fc-2f09-468f-aa5c-80c0c3e958d5",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone Number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "_systemfield_location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Where are you currently located?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f1\"]",
+    "key": "c1562fbe-9c81-4aab-ab3a-82f956fa515c",
+    "kind": "text",
+    "inputType": "text",
+    "label": "When can you start a new role?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"7be04dc4-d628-45e9-ac86-b20cf904fd31\"] .ashby-application-form-input-yesno",
+    "key": "7be04dc4-d628-45e9-ac86-b20cf904fd31",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you authorized to work in the country where the job is located?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"b150cba3-8c6e-460c-b9d6-337e85e15a6c\"] .ashby-application-form-input-yesno",
+    "key": "b150cba3-8c6e-460c-b9d6-337e85e15a6c",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Will you now or in the future require sponsorship for employment visa status in this country?",
+    "description": "We may provide immigration and sponsorship support to new employees based on their unique circumstances.",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"b6e425c8-c9bb-4636-b5f8-da2f0059d480\"] .ashby-application-form-input-yesno",
+    "key": "b6e425c8-c9bb-4636-b5f8-da2f0059d480",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you able to work from our London office three days per week?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"067a9b81-8179-4e50-8386-e9e9e91682f4\"]",
+    "key": "067a9b81-8179-4e50-8386-e9e9e91682f4",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Additional Information",
+    "description": "Please share anything else you want us to know, such as your motivation to apply or additional context for your application.",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"7fe82de7-a1d7-4d8a-95a5-e5cc9adc84ea\"] input[type=\"checkbox\"]",
+    "key": "7fe82de7-a1d7-4d8a-95a5-e5cc9adc84ea",
+    "kind": "checkbox",
+    "inputType": "checkbox",
+    "label": "I hereby certify that I have not knowingly withheld any information that might adversely affect my chances for employment and that the answers given by me are true and correct to the best of my knowledge. I further certify that I, the undersigned applicant, have personally completed this application. I understand that, to the extent permitted by applicable law, any omission or misstatement of material fact on this application or on any document used to secure employment shall be grounds for rejection of this application or for immediate discharge if I am employed, regardless of the time elapsed before discovery.",
+    "description": "OpenAI is not seeking, nor should you disclose, any information that may be subject to confidentiality obligations to third parties, including but not limited to, your current employer.",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  }
+]

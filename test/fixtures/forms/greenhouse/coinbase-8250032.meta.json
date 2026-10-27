@@ -1,0 +1,16 @@
+{
+  "ats": "greenhouse",
+  "board": "coinbase",
+  "jobId": "8250032",
+  "company": "Coinbase",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8250032",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8250032",
+  "httpStatus": 200,
+  "title": "Job Application for Finance & Strategy Analyst at Coinbase",
+  "capturedAt": "2026-10-03T02:57:09.193Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [],
+  "fieldCount": 35,
+  "requiredCount": 29
+}

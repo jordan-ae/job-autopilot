@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "writer",
+  "jobId": "183d8640-5d47-4c6c-8356-dde4cee0b896",
+  "company": "Writer",
+  "url": "https://jobs.ashbyhq.com/writer/183d8640-5d47-4c6c-8356-dde4cee0b896/application",
+  "finalUrl": "https://jobs.ashbyhq.com/writer/183d8640-5d47-4c6c-8356-dde4cee0b896/application",
+  "httpStatus": 200,
+  "title": "Enterprise AI adoption lead (West) @ WRITER",
+  "capturedAt": "2026-10-03T02:58:21.446Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 16,
+  "requiredCount": 12
+}

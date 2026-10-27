@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "hiya",
+  "jobId": "ca5fc79f-0105-4dca-93db-973077a2e639",
+  "company": "Hiya",
+  "url": "https://jobs.ashbyhq.com/hiya/ca5fc79f-0105-4dca-93db-973077a2e639/application",
+  "finalUrl": "https://jobs.ashbyhq.com/hiya/ca5fc79f-0105-4dca-93db-973077a2e639/application",
+  "httpStatus": 200,
+  "title": "Talent Acquisition Partner (Contract) @ Hiya",
+  "capturedAt": "2026-10-03T02:58:54.828Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 21,
+  "requiredCount": 9
+}

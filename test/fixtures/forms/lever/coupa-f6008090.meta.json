@@ -1,0 +1,22 @@
+{
+  "ats": "lever",
+  "board": "coupa",
+  "jobId": "f6008090-322f-472a-8f07-dd23bfb686c4",
+  "company": "Coupa",
+  "url": "https://jobs.lever.co/coupa/f6008090-322f-472a-8f07-dd23bfb686c4/apply",
+  "finalUrl": "https://jobs.lever.co/coupa/f6008090-322f-472a-8f07-dd23bfb686c4/apply",
+  "httpStatus": 200,
+  "title": "Coupa Software, Inc. - Revenue Strategy & Readiness Director - 11913",
+  "capturedAt": "2026-10-03T03:00:20.406Z",
+  "state": "form",
+  "evidence": "lever",
+  "challenges": [
+    {
+      "kind": "hcaptcha",
+      "state": "present",
+      "evidence": "https://js.hcaptcha.com/1/secure-api.js?host=jobs.lever.co&onload=onLoad"
+    }
+  ],
+  "fieldCount": 20,
+  "requiredCount": 8
+}

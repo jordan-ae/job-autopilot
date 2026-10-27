@@ -1,0 +1,41 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  }
+]

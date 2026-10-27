@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "natera",
+  "jobId": "6187836004",
+  "company": "Natera",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=natera&token=6187836004",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=natera&token=6187836004",
+  "httpStatus": 200,
+  "title": "Job Application for Regulatory Affairs Advisor at Natera",
+  "capturedAt": "2026-10-03T02:57:16.825Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 39,
+  "requiredCount": 24
+}

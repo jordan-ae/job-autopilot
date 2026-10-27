@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "handshake",
+  "jobId": "fb7c8deb-fc87-425c-b446-33dcfc1247c5",
+  "company": "Handshake",
+  "url": "https://jobs.ashbyhq.com/handshake/fb7c8deb-fc87-425c-b446-33dcfc1247c5/application",
+  "finalUrl": "https://jobs.ashbyhq.com/handshake/fb7c8deb-fc87-425c-b446-33dcfc1247c5/application",
+  "httpStatus": 200,
+  "title": "Revenue Enablement Manager @ Handshake",
+  "capturedAt": "2026-10-03T02:58:34.992Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 19,
+  "requiredCount": 11
+}

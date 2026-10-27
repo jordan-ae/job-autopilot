@@ -1,0 +1,22 @@
+{
+  "ats": "lever",
+  "board": "people-ai",
+  "jobId": "04017fde-2838-4d5e-88c8-55e68d8deb3e",
+  "company": "People Ai",
+  "url": "https://jobs.lever.co/people-ai/04017fde-2838-4d5e-88c8-55e68d8deb3e/apply",
+  "finalUrl": "https://jobs.lever.co/people-ai/04017fde-2838-4d5e-88c8-55e68d8deb3e/apply",
+  "httpStatus": 200,
+  "title": "Backstory - Senior Manager, Demand Generation",
+  "capturedAt": "2026-10-03T02:59:57.764Z",
+  "state": "form",
+  "evidence": "lever",
+  "challenges": [
+    {
+      "kind": "hcaptcha",
+      "state": "present",
+      "evidence": "https://js.hcaptcha.com/1/secure-api.js?host=jobs.lever.co&onload=onLoad"
+    }
+  ],
+  "fieldCount": 10,
+  "requiredCount": 4
+}

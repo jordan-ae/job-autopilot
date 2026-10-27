@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "jumio",
+  "jobId": "4738722005",
+  "company": "Jumio",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=jumio&token=4738722005",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=jumio&token=4738722005",
+  "httpStatus": 200,
+  "title": "Job Application for Principal Enterprise Architect at Jumio",
+  "capturedAt": "2026-10-03T02:57:39.152Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 20,
+  "requiredCount": 11
+}

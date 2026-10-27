@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "alphasense",
+  "jobId": "8784594002",
+  "company": "Alphasense",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=alphasense&token=8784594002",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=alphasense&token=8784594002",
+  "httpStatus": 200,
+  "title": "Job Application for Senior Software Engineer at AlphaSense",
+  "capturedAt": "2026-10-03T02:57:53.426Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 20,
+  "requiredCount": 12
+}

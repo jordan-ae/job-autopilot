@@ -1,0 +1,310 @@
+[
+  {
+    "selector": "[id=\"resume-upload-input\"]",
+    "key": "resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume/CV",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"name\"]",
+    "key": "name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full name",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"email\"][name=\"email\"]",
+    "key": "email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"phone\"]",
+    "key": "phone",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Phone",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"location-input\"]",
+    "key": "location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Current location",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": 100,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"org\"]",
+    "key": "org",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Current company",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[LinkedIn]\"]",
+    "key": "urls[LinkedIn]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "LinkedIn URL",
+    "description": "",
+    "section": "Links",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Twitter]\"]",
+    "key": "urls[Twitter]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Twitter URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[GitHub]\"]",
+    "key": "urls[GitHub]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "GitHub URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Portfolio]\"]",
+    "key": "urls[Portfolio]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Portfolio URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Other]\"]",
+    "key": "urls[Other]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Other website",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field0]\"]",
+    "key": "cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field0]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "How many years of total work experience do you have?",
+    "description": "",
+    "section": "Professional Services Architect",
+    "required": false,
+    "options": [
+      "Less than 2 years",
+      "2-5 years",
+      "6-9 years",
+      "10+ years"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field1]\"]",
+    "key": "cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field1]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "How many years of hands-on implementation and modeling experience do you have in Incentive Compensation Management (ICM) or Sales Performance Management (SPM)?",
+    "description": "",
+    "section": "Professional Services Architect",
+    "required": false,
+    "options": [
+      "Less than 2 years",
+      "2-5 years",
+      "6-9 years",
+      "10+ years"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field2]\"]",
+    "key": "cards[66d701d2-e65c-4dd5-b6a5-c97a143fc1fd][field2]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Which statement best describes your experience with advanced Excel modeling for complex data sets (e.g., compensation calculations)?",
+    "description": "",
+    "section": "Professional Services Architect",
+    "required": false,
+    "options": [
+      "I can build basic formulas and pivot tables, but typically don't work with large datasets or complex logic.",
+      "I am comfortable with VLOOKUPs, INDEX/MATCH, and have built models with moderate complexity.",
+      "I am an expert, regularly using advanced functions (e.g., arrays, data tables, dynamic ranges) to build scalable, high-performance financial or calculation models.",
+      "I have light experience with Excel, relying mainly on specialized modeling software."
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"cards[56a957c2-ef9b-4fc9-bf79-271a13d5f865][field0]\"]",
+    "key": "cards[56a957c2-ef9b-4fc9-bf79-271a13d5f865][field0]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Will you now, or in the future, require sponsorship for employment visa status (e.g., H-1B, O-1, TN, etc.) to legally work in North America?",
+    "description": "",
+    "section": "Work Authorization",
+    "required": false,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[gender]\"]",
+    "key": "eeo[gender]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Gender",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[race]\"]",
+    "key": "eeo[race]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Race",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[veteran]\"]",
+    "key": "eeo[veteran]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Veteran status",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "I am a veteran",
+      "I am not a veteran",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"checkbox\"][name=\"surveysResponses[1cb791f4-63fd-4fae-b5f0-2435fa4b4fde][responses][field0]\"]",
+    "key": "surveysResponses[1cb791f4-63fd-4fae-b5f0-2435fa4b4fde][responses][field0]",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "I identify my ethnicity asSelect all that apply",
+    "description": "",
+    "section": "Demographic Survey for CaptivateIQ",
+    "required": false,
+    "options": [
+      "White / Caucasian",
+      "Hispanic, Latino, or Spanish origin",
+      "Black or African American",
+      "Asian",
+      "Native Hawaiian or other Pacific Islander",
+      "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+      "Middle Eastern or North African",
+      "Some other race, ethnicity, or origin"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"surveysResponses[1cb791f4-63fd-4fae-b5f0-2435fa4b4fde][responses][field1]\"]",
+    "key": "surveysResponses[1cb791f4-63fd-4fae-b5f0-2435fa4b4fde][responses][field1]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "What gender do you identify as?",
+    "description": "",
+    "section": "Demographic Survey for CaptivateIQ",
+    "required": false,
+    "options": [
+      "Female",
+      "Male",
+      "Non-binary"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

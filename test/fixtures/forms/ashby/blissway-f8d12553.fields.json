@@ -1,0 +1,167 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"465da172-1f41-45b8-95d9-215694bf2368\"]",
+    "key": "465da172-1f41-45b8-95d9-215694bf2368",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone Number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"a36fb3fa-d226-4402-a0f7-8134defd2edf\"]",
+    "key": "a36fb3fa-d226-4402-a0f7-8134defd2edf",
+    "kind": "text",
+    "inputType": "url",
+    "label": "LinkedIn Profile URL",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[data-field-path=\"c81e988f-ecae-4ae5-b397-a643e3926773\"] .ashby-application-form-input-yesno",
+    "key": "c81e988f-ecae-4ae5-b397-a643e3926773",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Do you now, or will you in the future, require visa sponsorship to work in the USA?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"2df09b8e-a798-4ed2-86d5-79dbab4f6161\"]",
+    "key": "2df09b8e-a798-4ed2-86d5-79dbab4f6161",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "If you do need work sponsorship, please share the details",
+    "description": "Blissway is an equal opportunity employer and I encourage you to share more regarding your situation.",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "_systemfield_location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Location",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"388937ae-fb00-4112-8ea1-7dca78ad804b\"] input[type=\"checkbox\"]",
+    "key": "388937ae-fb00-4112-8ea1-7dca78ad804b",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "I confirm that I have reviewed the Job Description",
+    "description": "Warning for Humans: Do NOT check this box. It is a bot-trap. Checking this box will result in automatic rejection.",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"76e7e7b4-5cfa-463b-b5d2-c9475928f4f6\"] .ashby-application-form-input-yesno",
+    "key": "76e7e7b4-5cfa-463b-b5d2-c9475928f4f6",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you aware that this role requires relocation to Denver, and is that something you would truly consider?",
+    "description": "Blissway offers relocation support",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"dd05612a-5ba5-4fe9-9e86-ec2fc72a45e6\"]",
+    "key": "dd05612a-5ba5-4fe9-9e86-ec2fc72a45e6",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "What's one thing in this job description that stood out to you, and why?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"249e5970-72d7-4022-9cfd-4d1d6504da79\"]",
+    "key": "249e5970-72d7-4022-9cfd-4d1d6504da79",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "In fewer than 100 words, what is the hardest thing you have built or achieved? What made you keep going when it got difficult?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "selector": "select[name=\"opportunityLocationId\"]",
+    "key": "opportunityLocationId",
+    "kind": "select",
+    "inputType": "",
+    "label": "Which location are you applying for?",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [
+      "Franklin, TN",
+      "United States - Remote"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"resume-upload-input\"]",
+    "key": "resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume/CV",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"name\"]",
+    "key": "name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full name",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"email\"][name=\"email\"]",
+    "key": "email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"phone\"]",
+    "key": "phone",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Phone",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"location-input\"]",
+    "key": "location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Current location",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": 100,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"org\"]",
+    "key": "org",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Current company",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[LinkedIn]\"]",
+    "key": "urls[LinkedIn]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "LinkedIn URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Portfolio]\"]",
+    "key": "urls[Portfolio]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Portfolio URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[GitHub]\"]",
+    "key": "urls[GitHub]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "GitHub URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Other]\"]",
+    "key": "urls[Other]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Other website",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"checkbox\"][name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field0]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field0]",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "Have you previously worked for EnableComp?",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "textarea[name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field1]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field1]",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Tell me about your healthcare or billing experience.",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field2]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field2]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "How many years of hospital/physician collections experience do you have?",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "textarea[name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field3]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field3]",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Please list any software programs you have used in a professional setting and describe how you have used them.",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field4]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field4]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "What are your salary expectations?",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"checkbox\"][name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field5]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field5]",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "Do you have a High School Diploma or GED?",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"checkbox\"][name=\"cards[00ccce89-c838-4215-a421-7a3a92fbba79][field6]\"]",
+    "key": "cards[00ccce89-c838-4215-a421-7a3a92fbba79][field6]",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "Employment is contingent upon successful completion of a background check and drug screening, where permitted by law. If offered a position, can you meet this requirement?",
+    "description": "",
+    "section": "Revenue Specialist",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[gender]\"]",
+    "key": "eeo[gender]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Gender",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"eeo[race]\"]",
+    "key": "eeo[race]",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Race",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Hispanic or LatinoA person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.",
+      "White (Not Hispanic or Latino)A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+      "Black or African American (Not Hispanic or Latino)A person having origins in any of the black racial groups of Africa.",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+      "Asian (Not Hispanic or Latino)A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.",
+      "American Indian or Alaska Native (Not Hispanic or Latino)A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.",
+      "Two or More Races (Not Hispanic or Latino)All persons who identify with more than one of the above five races.",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[veteran]\"]",
+    "key": "eeo[veteran]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Veteran status",
+    "description": "",
+    "section": "Self-identification of veteran status (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "I identify as one or more of the classifications of protected veteran listed above",
+      "I am not a protected veteran",
+      "I decline to self-identify for protected veteran status"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"disabilitySelectElement\"]",
+    "key": "eeo[disability]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Disability status",
+    "description": "",
+    "section": "Voluntary self-identification of disability",
+    "required": false,
+    "options": [
+      "Yes, I have a disability, or have had one in the past",
+      "No, I do not have a disability and have not had one in the past",
+      "I do not want to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "samsara",
+  "jobId": "8250008",
+  "company": "Samsara",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=samsara&token=8250008",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=samsara&token=8250008",
+  "httpStatus": 200,
+  "title": "Job Application for Associate Creative Director, Digital Design at Samsara",
+  "capturedAt": "2026-10-03T02:57:46.218Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 27,
+  "requiredCount": 20
+}

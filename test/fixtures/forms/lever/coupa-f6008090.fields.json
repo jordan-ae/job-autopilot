@@ -1,0 +1,302 @@
+[
+  {
+    "selector": "[id=\"resume-upload-input\"]",
+    "key": "resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume/CV",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"name\"]",
+    "key": "name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full name",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"checkbox\"][name=\"pronouns\"]",
+    "key": "pronouns",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "Pronouns",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [
+      "He/him",
+      "She/her",
+      "They/them",
+      "Xe/xem",
+      "Ze/hir",
+      "Ey/em",
+      "Hir/hir",
+      "Fae/faer",
+      "Hu/hu",
+      "Use name only"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"email\"][name=\"email\"]",
+    "key": "email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"phone\"]",
+    "key": "phone",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Phone",
+    "description": "",
+    "section": "Submit your application",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"location-input\"]",
+    "key": "location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Current location",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": 100,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"org\"]",
+    "key": "org",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Current company",
+    "description": "",
+    "section": "Submit your application",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[LinkedIn]\"]",
+    "key": "urls[LinkedIn]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "LinkedIn URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[GitHub]\"]",
+    "key": "urls[GitHub]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "GitHub URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Portfolio]\"]",
+    "key": "urls[Portfolio]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Portfolio URL",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"text\"][name=\"urls[Other]\"]",
+    "key": "urls[Other]",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Other website",
+    "description": "",
+    "section": "Links",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field0]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field0]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Are you legally authorized to work in the United States?",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field1]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field1]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Will you now or in the future require sponsorship for an employment visa status (e.g., H-1B, L-1, TN, etc.) to work in the United States?",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field2]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field2]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Do you have any relatives, household members, or anyone with whom you have a close personal relationship currently employed at Coupa Software?",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "textarea[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field3]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field3]",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "If yes, please provide their name(s) and department(s) so we can ensure there are no potential conflicts of interest or reporting-line conflicts during the interview process.",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field4]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field4]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Are you currently employed by a Coupa partner?",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "textarea[name=\"cards[a8398334-c326-443d-b5d7-19cce5065c9c][field5]\"]",
+    "key": "cards[a8398334-c326-443d-b5d7-19cce5065c9c][field5]",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "If yes, please specify the company.",
+    "description": "",
+    "section": "3. US Applications-External",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[gender]\"]",
+    "key": "eeo[gender]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Gender",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[race]\"]",
+    "key": "eeo[race]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Race",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "select[name=\"eeo[veteran]\"]",
+    "key": "eeo[veteran]",
+    "kind": "select",
+    "inputType": "",
+    "label": "Veteran status",
+    "description": "",
+    "section": "U.S. Equal Employment Opportunity information (Completion is voluntary and will not subject you to adverse treatment)",
+    "required": false,
+    "options": [
+      "I am a veteran",
+      "I am not a veteran",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

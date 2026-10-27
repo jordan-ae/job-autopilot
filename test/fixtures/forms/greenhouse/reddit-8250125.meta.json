@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "reddit",
+  "jobId": "8250125",
+  "company": "Reddit",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=reddit&token=8250125",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=reddit&token=8250125",
+  "httpStatus": 200,
+  "title": "Job Application for iOS Software Engineer, Consumer Engineering at Reddit",
+  "capturedAt": "2026-10-03T02:57:31.934Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 21,
+  "requiredCount": 15
+}

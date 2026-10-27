@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "blissway",
+  "jobId": "f8d12553-f80b-40f3-8dc2-7622bac878cb",
+  "company": "Blissway",
+  "url": "https://jobs.ashbyhq.com/blissway/f8d12553-f80b-40f3-8dc2-7622bac878cb/application",
+  "finalUrl": "https://jobs.ashbyhq.com/blissway/f8d12553-f80b-40f3-8dc2-7622bac878cb/application",
+  "httpStatus": 200,
+  "title": "Finance and Operations Specialist @ Blissway Inc.",
+  "capturedAt": "2026-10-03T02:59:08.645Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 14,
+  "requiredCount": 9
+}

@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      # ats-form-fill is a GitHub dependency; fetch it over HTTPS, not SSH.
+      - run: git config --global url."https://github.com/".insteadOf ssh://git@github.com/
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build

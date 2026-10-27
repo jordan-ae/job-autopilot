@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "mavenclinic",
+  "jobId": "8864313002",
+  "company": "Mavenclinic",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=mavenclinic&token=8864313002",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=mavenclinic&token=8864313002",
+  "httpStatus": 200,
+  "title": "Job Application for Technical Recruiting Lead at Maven Clinic",
+  "capturedAt": "2026-10-03T02:58:07.388Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise/anchor?ar=1&k=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0&co=aHR0cHM6Ly9q..."
+    }
+  ],
+  "fieldCount": 9,
+  "requiredCount": 3
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"142d65c0-9712-4736-81b8-0aeedde5a039\"]",
+    "key": "142d65c0-9712-4736-81b8-0aeedde5a039",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Name Pronunciation",
+    "description": "Please share the phonetic spelling of your name to help our team pronounce it correctly.",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"56babe14-4980-4780-8a70-607348cafed5\"]",
+    "key": "56babe14-4980-4780-8a70-607348cafed5",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Pronouns",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"7778b8ec-bec9-41c1-89e3-fdd3afb664d1\"]",
+    "key": "7778b8ec-bec9-41c1-89e3-fdd3afb664d1",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"communicationConsent\"]",
+    "key": "communicationConsent",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Consent to receive text messages",
+    "description": "Check Yes or No to indicate your agreement to receive text message updates from Stryder Corp regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging.View our privacy policy here: Privacy PolicyYes - I consent to receiving text messagesNo - I do not consent to receiving text messages",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes - I consent to receiving text messages",
+      "No - I do not consent to receiving text messages"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"d03712f3-e6d9-40cf-a580-adb8b2f47bb9\"]",
+    "key": "d03712f3-e6d9-40cf-a580-adb8b2f47bb9",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Cover Letter",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"903dc0e8-8fb6-4b78-88ec-5128180f7a8c\"]",
+    "key": "903dc0e8-8fb6-4b78-88ec-5128180f7a8c",
+    "kind": "text",
+    "inputType": "text",
+    "label": "LinkedIn Profile (indicate N/A if you don't have one)",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"761006a0-c17a-4201-99ec-4ff787b1e157\"]",
+    "key": "761006a0-c17a-4201-99ec-4ff787b1e157",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "How did you hear about this job?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"1eb60d96-a310-4fe4-b1cf-4105cff145c5\"] input[type=\"radio\"]",
+    "key": "1eb60d96-a310-4fe4-b1cf-4105cff145c5",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Are you willing to relocate for this position if required?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No",
+      "I'm already located where the position is based"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"5bf481cb-6d53-44b7-9231-8bf81b3d3a16\"] .ashby-application-form-input-yesno",
+    "key": "5bf481cb-6d53-44b7-9231-8bf81b3d3a16",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "This role is hybrid. Are you willing to work from our local office 3 days/week?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"d8c84922-441c-4d51-a772-1d01ab8339c6\"] .ashby-application-form-input-yesno",
+    "key": "d8c84922-441c-4d51-a772-1d01ab8339c6",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you authorized to work lawfully in the United States for Handshake?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"34c63daf-e389-44ab-aa43-821442368df5\"] .ashby-application-form-input-yesno",
+    "key": "34c63daf-e389-44ab-aa43-821442368df5",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Will you now, or in the future, require sponsorship for employment visa status?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "_systemfield_location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Location",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_gender\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_gender",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Gender",
+    "description": "Input gender",
+    "section": "",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_race\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_race",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Race",
+    "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.White (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.Black or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.Asian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.American Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.Two or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.",
+    "section": "",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_veteran_status\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_veteran_status",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Veteran Status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "I identify as one or more of the classifications of protected veteran listed above",
+      "I am not a protected veteran",
+      "I decline to self-identify for protected veteran status"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_data_consent_ack\"] input[type=\"checkbox\"]",
+    "key": "_systemfield_data_consent_ack",
+    "kind": "checkbox",
+    "inputType": "checkbox",
+    "label": "I agree",
+    "description": "Do you agree to allow Handshake to contact you about job opportunities for up to 24 months?Recruiting Privacy Policy",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  }
+]

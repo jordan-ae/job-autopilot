@@ -1,0 +1,249 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"b89e814d-afc0-4168-a958-2efcfad6a250\"]",
+    "key": "b89e814d-afc0-4168-a958-2efcfad6a250",
+    "kind": "text",
+    "inputType": "text",
+    "label": "LinkedIn Profile",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"5b158ca5-0749-41b7-8038-81542479a9c0\"]",
+    "key": "5b158ca5-0749-41b7-8038-81542479a9c0",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone Number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"communicationConsent\"]",
+    "key": "communicationConsent",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Consent to receive text messages",
+    "description": "Check Yes or No to indicate your agreement to receive text message updates from Vanta Inc. regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging.View our privacy policy here: Privacy PolicyYes - I consent to receiving text messagesNo - I do not consent to receiving text messages",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes - I consent to receiving text messages",
+      "No - I do not consent to receiving text messages"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"6dba415e-c565-4966-acc2-2904c4fd0946\"]",
+    "key": "6dba415e-c565-4966-acc2-2904c4fd0946",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Current/Most Recent Company Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"729535cc-7c15-41c2-9648-5b659403b445\"]",
+    "key": "729535cc-7c15-41c2-9648-5b659403b445",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Current/Most Recent Job Title",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "_systemfield_location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Location",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"1bb2b4b5-f7c6-4bf1-ad59-d4968f24dc29\"] .ashby-application-form-input-yesno",
+    "key": "1bb2b4b5-f7c6-4bf1-ad59-d4968f24dc29",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you legally authorized to work in the location where this role is based?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"40d3ac67-65d9-47c4-b2a1-a06b5dad2996\"] .ashby-application-form-input-yesno",
+    "key": "40d3ac67-65d9-47c4-b2a1-a06b5dad2996",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Will you now or in the future require visa sponsorship?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"ca2dc728-f7b9-4151-b25d-76329f1dc600\"]",
+    "key": "ca2dc728-f7b9-4151-b25d-76329f1dc600",
+    "kind": "text",
+    "inputType": "text",
+    "label": "What are your pronouns? (Optional)",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"a4505c23-d9cc-41f1-90f8-3c1a93387c43\"]",
+    "key": "a4505c23-d9cc-41f1-90f8-3c1a93387c43",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Scaling experience",
+    "description": "Tell us about a system you helped evolve as a company or product grew rapidly. What was no longer working, what did you change, and how did you know the new approach would scale?",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"35078688-ba2c-4495-b31a-7a30fd21a231\"]",
+    "key": "35078688-ba2c-4495-b31a-7a30fd21a231",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Upleveling a team",
+    "description": "Share an example of how you helped engineers make better technical decisions on a complex project. How large was the team, what did you do personally, and what could the team do differently afterward?",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_gender\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_gender",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Gender",
+    "description": "Input gender",
+    "section": "",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_race\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_race",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Race",
+    "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.White (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.Black or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.Asian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.American Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.Two or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.",
+    "section": "",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_veteran_status\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_veteran_status",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Veteran Status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "I identify as one or more of the classifications of protected veteran listed above",
+      "I am not a protected veteran",
+      "I decline to self-identify for protected veteran status"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

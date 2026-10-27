@@ -1,0 +1,316 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"b1363f19-993c-448a-8009-8d04d56e45e2\"]",
+    "key": "b1363f19-993c-448a-8009-8d04d56e45e2",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Preferred Name",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"f4778c54-a297-4dfe-afe9-a1def7fd0a3e\"]",
+    "key": "f4778c54-a297-4dfe-afe9-a1def7fd0a3e",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "input[type=\"radio\"][name=\"communicationConsent\"]",
+    "key": "communicationConsent",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Consent to receive text messages",
+    "description": "Check Yes or No to indicate your agreement to receive text message updates from Hiya Inc regarding your job application. Frequency may vary. Message and data rates may apply. Reply STOP to opt out of future messaging.View our privacy policy here: Privacy PolicyYes - I consent to receiving text messagesNo - I do not consent to receiving text messages",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes - I consent to receiving text messages",
+      "No - I do not consent to receiving text messages"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"a731d226-b5ca-4c42-bc0a-ef63fe342367\"]",
+    "key": "a731d226-b5ca-4c42-bc0a-ef63fe342367",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Address",
+    "description": "Please confirm your address this is for NDA and employment contract purposes.",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "_systemfield_location",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Location",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"37af31e7-e208-48cf-8b59-8de006cb12db\"]",
+    "key": "37af31e7-e208-48cf-8b59-8de006cb12db",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Cover Letter",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"02e145eb-90c7-4570-bb48-9cc54f5a49d3\"]",
+    "key": "02e145eb-90c7-4570-bb48-9cc54f5a49d3",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Linkedin",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"bd72cf78-5d43-4f96-adb9-8e2c42389ad7\"]",
+    "key": "bd72cf78-5d43-4f96-adb9-8e2c42389ad7",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Website",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"61895d7e-e2da-47d4-866e-c72a38a43e68\"] input[type=\"radio\"]",
+    "key": "61895d7e-e2da-47d4-866e-c72a38a43e68",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Are you legally eligible to work in the US?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"9eda118a-1899-4056-8ce2-05fa9e5f46ae\"] input[type=\"radio\"]",
+    "key": "9eda118a-1899-4056-8ce2-05fa9e5f46ae",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Now, or at any time in the future, will you require sponsorship?",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"58dcdcc1-99f4-4c92-93fa-77cd8253af65\"] input[type=\"radio\"]",
+    "key": "58dcdcc1-99f4-4c92-93fa-77cd8253af65",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "If you will, do you currently hold Optional Practical Training (OPT)?",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"9065a14a-c34f-442b-97fa-35ed3457ebd0\"] input[type=\"radio\"]",
+    "key": "9065a14a-c34f-442b-97fa-35ed3457ebd0",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "If you will, will you be eligible for a 24-month extension of your OPT based on holding a qualifying STEM degree from a U.S. institution?",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"789cd8a2-c323-4492-a362-75bac36ca2fb\"] input[type=\"radio\"]",
+    "key": "789cd8a2-c323-4492-a362-75bac36ca2fb",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Are you currently located in the Greater Seattle area? If not, are you willing to relocate?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"d2d69296-7382-4dbf-9daf-5c3fe9abc3f6\"] input[type=\"radio\"]",
+    "key": "d2d69296-7382-4dbf-9daf-5c3fe9abc3f6",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Do you confirm all of the information provided is truthful and accurate?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"825ff704-c321-4e8a-85e9-f5b32a986a7b\"] input[type=\"radio\"]",
+    "key": "825ff704-c321-4e8a-85e9-f5b32a986a7b",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "What is your preferred method for receiving updates or decisions regarding your candidacy?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Email",
+      "Phone Call"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_gender\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_gender",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Gender",
+    "description": "Input gender",
+    "section": "",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_race\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_race",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Race",
+    "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.White (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.Black or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.Asian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.American Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.Two or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.",
+    "section": "",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_veteran_status\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_veteran_status",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Veteran Status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "I identify as one or more of the classifications of protected veteran listed above",
+      "I am not a protected veteran",
+      "I decline to self-identify for protected veteran status"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

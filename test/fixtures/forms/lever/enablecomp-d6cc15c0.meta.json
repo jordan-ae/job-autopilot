@@ -1,0 +1,22 @@
+{
+  "ats": "lever",
+  "board": "enablecomp",
+  "jobId": "d6cc15c0-de7c-4d31-92b4-49a322a14c81",
+  "company": "Enablecomp",
+  "url": "https://jobs.lever.co/enablecomp/d6cc15c0-de7c-4d31-92b4-49a322a14c81/apply",
+  "finalUrl": "https://jobs.lever.co/enablecomp/d6cc15c0-de7c-4d31-92b4-49a322a14c81/apply",
+  "httpStatus": 200,
+  "title": "EnableComp - Revenue Specialist, First Party Billing, MVA",
+  "capturedAt": "2026-10-03T02:59:40.158Z",
+  "state": "form",
+  "evidence": "lever",
+  "challenges": [
+    {
+      "kind": "hcaptcha",
+      "state": "present",
+      "evidence": "https://js.hcaptcha.com/1/secure-api.js?host=jobs.lever.co&onload=onLoad"
+    }
+  ],
+  "fieldCount": 22,
+  "requiredCount": 11
+}

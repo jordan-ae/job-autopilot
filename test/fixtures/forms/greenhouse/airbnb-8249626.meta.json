@@ -1,0 +1,22 @@
+{
+  "ats": "greenhouse",
+  "board": "airbnb",
+  "jobId": "8249626",
+  "company": "Airbnb",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=airbnb&token=8249626",
+  "finalUrl": "https://job-boards.greenhouse.io/embed/job_app?for=airbnb&token=8249626",
+  "httpStatus": 200,
+  "title": "Job Application for Senior Software Engineer Guest & Host at Airbnb",
+  "capturedAt": "2026-10-03T02:58:14.281Z",
+  "state": "form",
+  "evidence": "greenhouse",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LfmcbcpAAAAAChNTbhUShzUOAMj_wY9LQIvLFX0"
+    }
+  ],
+  "fieldCount": 20,
+  "requiredCount": 14
+}

@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "ashby",
+  "jobId": "56941cfb-f595-4df7-9051-d514fffbe113",
+  "company": "Ashby",
+  "url": "https://jobs.ashbyhq.com/ashby/56941cfb-f595-4df7-9051-d514fffbe113/application",
+  "finalUrl": "https://jobs.ashbyhq.com/ashby/56941cfb-f595-4df7-9051-d514fffbe113/application",
+  "httpStatus": 200,
+  "title": "Recruiting Operations Consultant @ Ashby",
+  "capturedAt": "2026-10-03T02:59:15.159Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-enterprise",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/enterprise.js?render=6LezdY0tAAAAAEnollNLCAI0z1VDGwM7AzGrU4XZ&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 25,
+  "requiredCount": 7
+}

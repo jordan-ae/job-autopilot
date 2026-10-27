@@ -1,0 +1,248 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"34e6558c-7070-4733-8a0e-663f2d6fd6a5\"]",
+    "key": "34e6558c-7070-4733-8a0e-663f2d6fd6a5",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone Number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"b105e23c-5d51-4bce-8a9d-58ec81e4e2ad\"]",
+    "key": "b105e23c-5d51-4bce-8a9d-58ec81e4e2ad",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Linkedin Profile",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"1230e70e-6868-4809-8965-c77601973fd8\"]",
+    "key": "1230e70e-6868-4809-8965-c77601973fd8",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Portfolio / Github URL",
+    "description": "Note: Share password if portfolio is locked",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"5258fd80-733b-432e-bab8-b775cac2f7a3\"] input[type=\"radio\"]",
+    "key": "5258fd80-733b-432e-bab8-b775cac2f7a3",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Are you located within 50 miles of one of the following office hubs",
+    "description": "*Please note: If you aren't located in one of these hubs, but you intend/are open to relocate, please answer accordingly",
+    "section": "",
+    "required": true,
+    "options": [
+      "San Francisco (Union Square)",
+      "New York (Manhattan)",
+      "Austin, Texas",
+      "Chicago, Illinois",
+      "Seattle, Washington",
+      "London, UK",
+      "No, but willing to relocate",
+      "No, and not willing to relocate"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"4d73cff6-024f-4350-9842-021270af5b32\"] .ashby-application-form-input-yesno",
+    "key": "4d73cff6-024f-4350-9842-021270af5b32",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you able and excited to join us for in person, collaborative working sessions in office 3 days / week?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"0b43208a-905a-45fb-84b5-154e673a0fe8\"]",
+    "key": "0b43208a-905a-45fb-84b5-154e673a0fe8",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Why are you interested in joining WRITER?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"9776654b-fcbf-46fa-ba45-2183f2d5f5b6\"]",
+    "key": "9776654b-fcbf-46fa-ba45-2183f2d5f5b6",
+    "kind": "textarea",
+    "inputType": "",
+    "label": "Please give an example from your professional experience that aligns with one or more of our cultural values:",
+    "description": "WRITER's values of Connect, Challenge, Own can be reviewed here",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"e97f0eea-31be-42ab-9398-f9b68bdc14f9\"] .ashby-application-form-input-yesno",
+    "key": "e97f0eea-31be-42ab-9398-f9b68bdc14f9",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you at least 18 years of age?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"8fde26ba-237d-47af-8460-6cc8b242af33\"] .ashby-application-form-input-yesno",
+    "key": "8fde26ba-237d-47af-8460-6cc8b242af33",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you legally authorized to work in the country in which the job you are applying for is located?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"cecc7c81-34f0-4a29-998e-0994597be6d9\"] .ashby-application-form-input-yesno",
+    "key": "cecc7c81-34f0-4a29-998e-0994597be6d9",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Will you now or in the future require employment visa sponsorship to work in the country in which the job you're applying for is located?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_gender\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_gender",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Gender",
+    "description": "Input gender",
+    "section": "",
+    "required": false,
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_race\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_race",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Race",
+    "description": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.White (Not Hispanic or Latino) - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.Black or African American (Not Hispanic or Latino) - A person having origins in any of the Black racial groups of Africa.Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.Asian (Not Hispanic or Latino) - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.American Indian or Alaska Native (Not Hispanic or Latino) - A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.Two or More Races (Not Hispanic or Latino) - All persons who identify with more than one of the above five races.",
+    "section": "",
+    "required": false,
+    "options": [
+      "Hispanic or Latino",
+      "White (Not Hispanic or Latino)",
+      "Black or African American (Not Hispanic or Latino)",
+      "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+      "Asian (Not Hispanic or Latino)",
+      "American Indian or Alaska Native (Not Hispanic or Latino)",
+      "Two or More Races (Not Hispanic or Latino)",
+      "Decline to self-identify"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"_systemfield_eeoc_veteran_status\"] input[type=\"radio\"]",
+    "key": "_systemfield_eeoc_veteran_status",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Veteran Status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "I identify as one or more of the classifications of protected veteran listed above",
+      "I am not a protected veteran",
+      "I decline to self-identify for protected veteran status"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

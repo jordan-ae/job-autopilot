@@ -1,0 +1,299 @@
+[
+  {
+    "selector": "[id=\"_systemfield_name\"]",
+    "key": "_systemfield_name",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Full Name",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_email\"]",
+    "key": "_systemfield_email",
+    "kind": "text",
+    "inputType": "email",
+    "label": "Email",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"150ebb9a-f971-43ee-9cd9-baa6eb9145a4\"]",
+    "key": "150ebb9a-f971-43ee-9cd9-baa6eb9145a4",
+    "kind": "text",
+    "inputType": "tel",
+    "label": "Phone Number",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"_systemfield_resume\"]",
+    "key": "_systemfield_resume",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Resume",
+    "description": "Please upload a PDF version",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"9fb7046c-be80-4716-bc00-72b8a62f2fad\"]",
+    "key": "9fb7046c-be80-4716-bc00-72b8a62f2fad",
+    "kind": "file",
+    "inputType": "file",
+    "label": "Cover Letter",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*"
+  },
+  {
+    "selector": "[id=\"8214030a-1cdc-4e36-97d7-4ce2e7bb1026\"]",
+    "key": "8214030a-1cdc-4e36-97d7-4ce2e7bb1026",
+    "kind": "text",
+    "inputType": "url",
+    "label": "LinkedIn Profile URL",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"f4883bf8-897f-461e-8bb4-8dbeb002468e\"]",
+    "key": "f4883bf8-897f-461e-8bb4-8dbeb002468e",
+    "kind": "text",
+    "inputType": "url",
+    "label": "Personal Website/Portfolio",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-arkoo-field=\"f0\"]",
+    "key": "567a7026-a1cf-4caa-8dbe-c7c689db0253",
+    "kind": "combobox",
+    "inputType": "text",
+    "label": "Please enter your current working location",
+    "description": "Please select your nearest metropolitan area",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[id=\"2805ac19-e66e-4afa-bf58-5a2c867c0747\"]",
+    "key": "2805ac19-e66e-4afa-bf58-5a2c867c0747",
+    "kind": "text",
+    "inputType": "text",
+    "label": "Who is your current or previous employer?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"70b7339f-55ff-4840-a0f5-ccce528563f1\"] .ashby-application-form-input-yesno",
+    "key": "70b7339f-55ff-4840-a0f5-ccce528563f1",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Have you worked at Headway in the past in a Full-Time, Part-Time, Contractor or Intern capacity?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"16e2741b-2ba6-4748-9d29-b2bb43c9efd7\"] input[type=\"radio\"]",
+    "key": "16e2741b-2ba6-4748-9d29-b2bb43c9efd7",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "I understand and agree that Headway may contact additional references beyond the references you provide to validate your previous employment.",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"f899d90c-7243-4a7a-a09a-f330dbdbf464\"] .ashby-application-form-input-yesno",
+    "key": "f899d90c-7243-4a7a-a09a-f330dbdbf464",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Are you authorized to work in the United States for any employer?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"dd460bdc-fc19-4100-bac5-2270e5a2f2fa\"] .ashby-application-form-input-yesno",
+    "key": "dd460bdc-fc19-4100-bac5-2270e5a2f2fa",
+    "kind": "boolean",
+    "inputType": "checkbox",
+    "label": "Will you now, or in the future, require visa sponsorship for employment visa status (e.g. H-1B visa status)?",
+    "description": "",
+    "section": "",
+    "required": true,
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000196004\"] input[type=\"radio\"]",
+    "key": "gh_quest_4000196004",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "I identify my gender as",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Female",
+      "Male",
+      "Non-binary, non-conforming",
+      "I prefer to self-describe",
+      "I don't wish to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000197004\"] input[type=\"radio\"]",
+    "key": "gh_quest_4000197004",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "I identify as transgender",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "No",
+      "Yes",
+      "I don't wish to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000198004\"] input[type=\"radio\"]",
+    "key": "gh_quest_4000198004",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "I identify my sexual orientation as",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Asexual",
+      "Bisexual, pansexual, and/or queer",
+      "Gay and/or Lesbian",
+      "Heterosexual",
+      "I prefer to self-describe",
+      "I don't wish to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000199004\"] input[type=\"checkbox\"]",
+    "key": "gh_quest_4000199004",
+    "kind": "checkboxes",
+    "inputType": "checkbox",
+    "label": "I identify my ethnicity as",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "Alaskan Native / American Indian / Indigenous American / Native American",
+      "Black / of African descent",
+      "East Asian (inclusive of Chinese, Japanese, Korean, Mongolian, Tibetan, and Taiwanese)",
+      "Hispanic / Latinx",
+      "Middle Eastern",
+      "Pacific Islander",
+      "South Asian (including Bangladeshi, Bhutanese, Indian, Nepali, Pakistani, and Sri Lankan",
+      "Southeast Asian (including Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Thai, and Vietnamese)",
+      "White",
+      "I don't wish to answer",
+      "I prefer to self-describe"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000200004\"] input[type=\"radio\"]",
+    "key": "gh_quest_4000200004",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Veteran status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "No, I am not a veteran",
+      "Yes, I am a veteran",
+      "I prefer to self-describe",
+      "I don't wish to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  },
+  {
+    "selector": "[data-field-path=\"gh_quest_4000201004\"] input[type=\"radio\"]",
+    "key": "gh_quest_4000201004",
+    "kind": "radio",
+    "inputType": "radio",
+    "label": "Disability status",
+    "description": "",
+    "section": "",
+    "required": false,
+    "options": [
+      "I identify as someone with a visible disability",
+      "I identify as someone with an invisible disability",
+      "I do not identify as someone with a disability",
+      "I don't wish to answer"
+    ],
+    "maxLength": null,
+    "accept": ""
+  }
+]

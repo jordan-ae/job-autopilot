@@ -1,0 +1,22 @@
+{
+  "ats": "lever",
+  "board": "captivateiq",
+  "jobId": "2b444752-f222-40b7-9d3b-a8a467f2fa73",
+  "company": "Captivateiq",
+  "url": "https://jobs.lever.co/captivateiq/2b444752-f222-40b7-9d3b-a8a467f2fa73/apply",
+  "finalUrl": "https://jobs.lever.co/captivateiq/2b444752-f222-40b7-9d3b-a8a467f2fa73/apply",
+  "httpStatus": 200,
+  "title": "CaptivateIQ - Senior Professional Services Consultant",
+  "capturedAt": "2026-10-03T03:00:38.408Z",
+  "state": "form",
+  "evidence": "lever",
+  "challenges": [
+    {
+      "kind": "hcaptcha",
+      "state": "present",
+      "evidence": "https://js.hcaptcha.com/1/secure-api.js?host=jobs.lever.co&onload=onLoad"
+    }
+  ],
+  "fieldCount": 20,
+  "requiredCount": 3
+}

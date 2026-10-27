@@ -1,0 +1,75 @@
+{
+  "id": "ada",
+  "profile": {
+    "full_name": "Ada Lovelace",
+    "first_name": "Ada",
+    "last_name": "Lovelace",
+    "email": "ada@example.com",
+    "phone": "+44 20 7946 0958",
+    "location": "London, United Kingdom",
+    "city": "London",
+    "country": "GB",
+    "citizenship": ["GB"],
+    "linkedin_url": "https://www.linkedin.com/in/example",
+    "github_url": "https://github.com/example",
+    "portfolio_url": "",
+    "work_authorization": "UK citizen",
+    "requires_sponsorship": false,
+    "work_authorizations": [
+      { "region": "GB", "authorized": true, "needs_sponsorship": false, "open_to_contractor_eor": true },
+      { "region": "US", "authorized": false, "needs_sponsorship": true, "open_to_contractor_eor": true }
+    ],
+    "notice_period_days": 30,
+    "desired_salary": 95000,
+    "desired_salary_currency": "GBP",
+    "earliest_start_date": null,
+    "custom_answers": {
+      "describe a technical project you are most proud of": "Moving the build at Analytical Engines to remote caching. I measured where the time went, rolled it out team by team, and the median build fell from 14 to 3 minutes for the 40 engineers who use it."
+    },
+    "eeo": {}
+  },
+  "resume": {
+    "summary": "Staff engineer who builds developer tools and build systems.",
+    "skills": "TypeScript, Node.js, Playwright, Bazel, PostgreSQL",
+    "languages": ["English (native)", "French (professional)"],
+    "experience": [
+      {
+        "company": "Analytical Engines",
+        "jobTitle": "Staff Engineer",
+        "startDate": "Jan 2019",
+        "endDate": "Present",
+        "bullets": ["Owned the build system used by 40 engineers.", "Moved CI to remote caching; median build time fell from 14 to 3 minutes."]
+      },
+      {
+        "company": "Difference Labs",
+        "jobTitle": "Software Engineer",
+        "startDate": "Sep 2015",
+        "endDate": "Dec 2018",
+        "bullets": ["Built the internal deploy tool."]
+      }
+    ],
+    "education": [{ "school": "University of London", "degree": "BSc Mathematics", "year": "2015" }]
+  },
+  "settings": {
+    "timezone": "Europe/London",
+    "dailyTarget": 5,
+    "minMatch": 0.6,
+    "draftPolicy": "review_first"
+  },
+  "targeting": [
+    {
+      "id": "platform",
+      "name": "Platform",
+      "targetTitles": ["Platform Engineer", "Developer Tools Engineer"],
+      "mustHaveSkills": ["TypeScript"],
+      "niceToHaveSkills": ["Bazel", "Playwright"],
+      "seniority": "senior",
+      "remotePreference": "any",
+      "locations": ["London", "Remote"],
+      "salaryFloor": null,
+      "salaryFloorCurrency": "GBP",
+      "excludedCompanies": [],
+      "excludedKeywords": []
+    }
+  ]
+}

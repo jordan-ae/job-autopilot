@@ -1,0 +1,22 @@
+{
+  "ats": "lever",
+  "board": "spotify",
+  "jobId": "e04833c0-9cff-4b5e-b217-91a3bcb57051",
+  "company": "Spotify",
+  "url": "https://jobs.lever.co/spotify/e04833c0-9cff-4b5e-b217-91a3bcb57051/apply",
+  "finalUrl": "https://jobs.lever.co/spotify/e04833c0-9cff-4b5e-b217-91a3bcb57051/apply",
+  "httpStatus": 200,
+  "title": "Spotify - Senior Software Engineer",
+  "capturedAt": "2026-10-03T03:00:02.711Z",
+  "state": "form",
+  "evidence": "lever",
+  "challenges": [
+    {
+      "kind": "hcaptcha",
+      "state": "present",
+      "evidence": "https://js.hcaptcha.com/1/secure-api.js?host=jobs.lever.co&onload=onLoad"
+    }
+  ],
+  "fieldCount": 14,
+  "requiredCount": 7
+}

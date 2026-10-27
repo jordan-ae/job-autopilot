@@ -1,0 +1,22 @@
+{
+  "ats": "ashby",
+  "board": "felix",
+  "jobId": "033401f2-76a5-46e1-95b7-9e486dbd632e",
+  "company": "Felix",
+  "url": "https://jobs.ashbyhq.com/felix/033401f2-76a5-46e1-95b7-9e486dbd632e/application",
+  "finalUrl": "https://jobs.ashbyhq.com/felix/033401f2-76a5-46e1-95b7-9e486dbd632e/application",
+  "httpStatus": 200,
+  "title": "CX Coordinator @ Felix",
+  "capturedAt": "2026-10-03T02:58:48.074Z",
+  "state": "form",
+  "evidence": "ashby",
+  "challenges": [
+    {
+      "kind": "recaptcha-v3",
+      "state": "present",
+      "evidence": "https://www.recaptcha.net/recaptcha/api.js?render=6LeFb_YUAAAAALUD5h-BiQEp8JaFChe0e0A6r49Y&onload=onLoadReCaptcha"
+    }
+  ],
+  "fieldCount": 8,
+  "requiredCount": 6
+}
